@@ -14,9 +14,8 @@ op.atelier5();
 op.atelier6();
 op.atelier7();
 op.atelier8();
-op.atelier9();
+op.atelier9();*/
 op.atelier10();
-*/
 }
 
 public void atelier2() {
